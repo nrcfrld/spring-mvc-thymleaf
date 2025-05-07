@@ -5,6 +5,7 @@ import com.greenacademy.models.Category;
 import com.greenacademy.models.Product;
 
 public class ProductViewModel {
+    // Fields
     private Product product;
     private Category category;
     
