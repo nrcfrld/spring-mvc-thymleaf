@@ -1,0 +1,8 @@
+com/greenacademy/services/CategoryServices.class
+com/greenacademy/services/ProductServices.class
+com/greenacademy/models/UserProfile.class
+com/greenacademy/viewmodel/ProductViewModel.class
+com/greenacademy/controllers/HomeController.class
+com/greenacademy/controllers/ProductController.class
+com/greenacademy/models/Category.class
+com/greenacademy/models/Product.class
